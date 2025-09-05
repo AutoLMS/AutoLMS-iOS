@@ -15,6 +15,6 @@ iOS application for AutoLMS (Automated Learning Management System)
 
 ## Requirements
 
-- iOS 15.0+
-- Xcode 14.0+
-- Swift 5.0+
+- iOS 16.0+ (iPhone and iPad Universal)
+- Xcode 16.0+
+- Swift 5.9+
